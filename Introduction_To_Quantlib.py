@@ -1,5 +1,3 @@
-
-#%%
 import QuantLib as ql
 
 date = ql.Date(31, 3, 2015) # 31 March, 2015
